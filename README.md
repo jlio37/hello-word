@@ -1,2 +1,4 @@
 # hello-word
-Example of my first Github Rep.
+Hellow World~
+
+Julio A. Rodriguez, getting my hands wet on web development. 
